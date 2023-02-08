@@ -1,1 +1,6 @@
+Jira project --->
 https://veleksvega.atlassian.net/jira/software/projects/VEL/boards/2
+
+Confluence --->
+https://veleksvega.atlassian.net/l/cp/eXL81b8T
+
