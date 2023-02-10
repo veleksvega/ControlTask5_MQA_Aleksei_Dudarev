@@ -1,3 +1,6 @@
+Jira WORKFLOW --->
+https://veleksvega.atlassian.net/jira/software/projects/QT/boards/1
+
 Jira project --->
 https://veleksvega.atlassian.net/jira/software/projects/VEL/boards/2
 
